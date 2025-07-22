@@ -6,7 +6,8 @@ UMI is a complete microservices architecture built with Spring Boot, Spring Clou
 
 ## 📦 Project Structure
 
-![Uploading image.png…]()
+<img width="1733" height="930" alt="image" src="https://github.com/user-attachments/assets/8793e07f-b33f-4f41-ba3d-fb6f9b86ae42" />
+
 
 ```
 umi/
