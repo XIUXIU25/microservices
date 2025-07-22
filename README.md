@@ -6,14 +6,16 @@ UMI is a complete microservices architecture built with Spring Boot, Spring Clou
 
 ## 📦 Project Structure
 
+![Uploading image.png…]()
+
 ```
 umi/
 ├── api-gateway/              # Gateway routing and authentication
 ├── config-server/            # Centralized externalized configuration
 ├── discovery-server/         # Service registry using Eureka
-├── product-service/          # Product catalog service
-├── order-service/            # Order processing service
-├── inventory-service/        # Inventory validation and availability check
+├── product-service/          # Create and View Products, acts as Product Catalog.
+├── order-service/            # Can Order Products.
+├── inventory-service/        # Can check if product is in stock or not.
 ├── docker-compose.yml        # Container orchestration
 └── README.md                 # This file
 ```
