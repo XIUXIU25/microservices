@@ -1,0 +1,11 @@
+use admin
+db.system.users.find().pretty()
+use admin
+git init
+git status
+use admin
+show dbsssword", roles: [{ role: "root", db: "admin" }] })
+use admin
+show dbsw dbs] })
+use admin
+show dbsw dbs
